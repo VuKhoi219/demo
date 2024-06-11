@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.tieude1{
+    display: flex;
+    justify-content: center;
+}
+.tengv{
+}
+#gv1 , #gv2{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    overflow: hidden;
+}
+
+#sv{
+    width: 400px;
+    height: 500px;
+    border-radius: 10%;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+.ttsv{
+    margin-top: 30px;
+}
+.ttsv h3{
+    margin: 30px;
+}
+.nut button{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+#debai{
+    background-color: #92B9E5;
+    border: #FDBF9D;
+}
+#bailam{
+    background-color: #FCA2D1;
+    border: #FDBF9D;
+}
+#debai:hover{
+    background-color: #C588E9;
+}
+#bailam:hover{
+    background-color:#C588E9 ;
+}

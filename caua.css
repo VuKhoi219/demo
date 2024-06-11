@@ -1,0 +1,33 @@
+body{
+
+}
+h3{
+    display:flex;
+}
+.col{
+    border: 2px solid #2f25be; /* Màu và kích thước border mong muốn */
+    padding: 10px; /* Để tạo khoảng cách giữa border và nội dung */
+}
+.bh{
+    display: flex;
+}
+.cn button{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+#cau{
+    float: right;
+    background-color: #FCA2D1;
+    border: #FDBF9D;
+}
+#home{
+    background-color: #92B9E5;
+    border: #FDBF9D;
+}
+#cau:hover{
+    background-color: #C588E9;
+}
+#home :hover{
+    background-color: #C588E9;
+}

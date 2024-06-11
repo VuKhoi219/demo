@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-fluid {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+ h3{
+    display:flex;
+    width: 700px;
+}
+.container{
+    justify-content: center;
+    align-items: center;
+}
+.nd h3{
+    margin-top: 30px ;
+}
+.bailam{
+    display: flex;
+    margin-top: 30px;
+}
+.bailam a{
+    margin-left: 20px;
+}
+button{
+    width: 250px;
+    height: 40px;
+    background-color: blueviolet;
+    border-radius: 5px;
+}
+.debai{
+    text-align: center;
+}

@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.y2{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    align-items: center;
+    gap: 2.5rem;
+}
+.cn button{
+    width: 200px;
+    height: 50px;
+    border-radius: 10px;
+}
+#caua{
+    float: right;
+    background-color: #FCA2D1;
+    border: #FDBF9D;
+}
+#home{
+    background-color: #92B9E5;
+    border: #FDBF9D;
+}
+#caua:hover{
+    background-color: #C588E9;
+}
+#home :hover{
+    background-color: #C588E9;
+}
